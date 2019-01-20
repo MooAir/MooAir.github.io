@@ -1,0 +1,17 @@
+.hero {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    margin-top: 0 !important;
+
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+
+}
+
+.hero-subtext {
+    color: ghostwhite !important;
+    text-align: center !important;
+    text-shadow: 4px;
+}
